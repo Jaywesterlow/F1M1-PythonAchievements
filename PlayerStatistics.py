@@ -14,33 +14,7 @@ import time
 #9.	Rage Moves:		Rage Art, Rage Drive, Devil Transformation	(During Rage)
 #10.	Transformations:	Devil Kazuya					(During Rage)
 
-print("Name:			Kazuya Mishima")
-time.sleep(0.8)
 
-print(" ")
-
-print("Attributes:")
-time.sleep(0.5)
-print("Health:			Standard(170)")
-time.sleep(0.2)
-print("Strength:		60")
-time.sleep(0.2)
-print("Magic:			Standard(20)( + 10 * 4 while in devil transformation)")
-time.sleep(0.2)
-print("Evasion:		70( + 30 while in devil transformation")
-time.sleep(0.2)
-print("Stealth:		0")
-time.sleep(0.2)
-print("Defence:		Standard(50)")
-time.sleep(0.2)
-print("Magic Resistance:	30 ( x 4 while in devil transformation)")
-time.sleep(0.2)
-print("Special Moves:		Wavedash, Electric Wind God Fist")
-time.sleep(0.2)
-print("Rage Moves:		Rage Art, Rage Drive, Devil Transformation	(During Rage)")
-time.sleep(0.2)
-print("Transformations:	Devil Kazuya					(During Rage)")
-time.sleep(0.2)
 
 
 
